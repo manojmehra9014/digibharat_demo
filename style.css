@@ -1,0 +1,1036 @@
+
+html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+}
+
+.main-page-section{
+    /* background-color: rgb(201, 201, 201); */
+    background-image:url(images/main-page-color-background.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    padding-top:10px;
+}
+
+.main-page-section .brand-image-in-text h3{
+    color:#c2023e;
+    font-size:40px;
+    font-weight:700;
+}
+
+.main-page-section .brand-image-in-text h3.jQClassForBoyName{
+    padding-left: 50px;
+}
+
+.main-page-section .brand-image-in-text h3.jQClassForGirlName{
+    padding-left: 200px;
+}
+
+.main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+    padding-left: 50px;
+}
+
+.main-page-section .name-detail-share{
+    border-top:4px solid #c2023e;
+    border-right:4px solid #c2023e;
+    border-bottom:2px solid #c2023e;
+    border-left:3px solid #c2023e;
+    border-bottom-left-radius:90px;
+    height:180px;
+}
+
+.main-page-section .name-detail-share p{
+    color:#c2023e;
+}
+
+.main-page-section .name-detail-share .profile-detail-contact a{
+    color:#c2023e;
+    font-size:15px;
+    font-weight:600;
+}
+
+.main-page-section .name-detail-share .profile-detail-contact a:hover{
+    color:#ff0051;
+    text-decoration: none;
+}
+
+.main-page-section .name-detail-share .profile-detail-contact a i{
+    color:rgb(207, 207, 207);
+    background-color: #c2023e;
+    padding:10px;
+    border-radius:100%;
+    /* border-bottom-left-radius:8px; */
+    animation: rotate-phone-icon 20s infinite;
+}
+
+/* @keyframes zoom-icons {
+    0%{
+        transform: scale(1);
+    }
+    20%{
+        transform: scale(1.2);
+    }
+    40%{
+        transform: scale(1);
+    }
+    60%{
+        transform: scale(1.2);
+    }
+    80%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.2);
+    }
+} */
+
+.main-page-section .name-detail-share input{
+    color:#c2023e;
+    background: transparent;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom:2px solid #c2023e;
+    width:85%;
+}
+
+.main-page-section .pareshak-detail{
+    color: #c2023e;
+    font-size:15px;
+    padding-left: 100px;
+    padding-top:20px;
+}
+
+.main-page-section .pareshak-detail a{
+    color: #c2023e;
+}
+
+.main-page-section .pareshak-detail a:hover{
+    color: #c2023e;
+    text-decoration: none;
+}
+
+.main-page-section .pareshak-detail a i{
+    animation: rotate-phone-icon 8s infinite;    
+}
+
+.main-page-section .created-by{
+    padding-top:0px;
+}
+
+.main-page-section .created-by a{
+    color:#c2023e;
+    font-size:22px;
+    font-weight:700;
+    width:100%;
+}
+.main-page-section .created-by a:hover{
+    text-decoration: none;
+}
+
+.third-page-section{
+    /* background-color: rgb(201, 201, 201); */
+    background-image:url(images/main-page-color-background.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    padding-top:10px;
+}
+
+.third-page-section .container-fluid{
+    border:4px solid #c2023e;
+    padding:10px 0px;
+}
+
+.third-page-section .om-ganeshay-text{
+    color:#c2023e;
+    font-size:22px;
+    font-weight:500;
+}
+
+.third-page-section img.mangal-prinay-third-page{
+    width:500px;
+}
+
+.third-page-section .event-date-main-div .event-date h4{
+    color:#c2023e;
+    font-size:26px;
+    font-weight:600;
+}
+
+.third-page-section .event-date-main-div .event-date-detail{
+    color:#c2023e;
+    font-size:22px;
+}
+
+.third-page-section .event-date-main-div .event-date-detail a{
+    color:rgb(207, 207, 207);
+    background-color: #c2023e;
+    padding:3px 8px;
+    border-radius:10px;
+    font-size:22px;
+}
+
+.third-page-section .event-date-main-div .event-date-detail a i{
+    animation: rotate-direction-icon 10s infinite ;
+}
+
+.third-page-section .aalok-text-background h4{
+    background-color:#c2023e;
+    color:rgb(207, 207, 207);
+    font-size:22px;
+    padding:8px 16px;
+    margin:20px 70px;
+}
+
+.third-page-section a.jQClassForBanquetHallLocationAnchor{
+    color:#c2023e;
+    font-size:21px;
+    font-weight:600;
+}
+
+.third-page-section a.jQClassForBanquetHallLocationAnchor:hover{
+    color:#ff0051;
+    text-decoration: none;
+}
+
+.third-page-section a.jQClassForBanquetHallLocationAnchor div.see-location-text{
+    background-color: #c2023e;
+    width:150px;
+    padding:5px 5px;
+    margin-top:5px;
+    animation: hightlights-location 10s infinite;
+}
+
+.third-page-section a.jQClassForBanquetHallLocationAnchor div.see-location-text i{
+    animation:rotate-direction-icon  10s infinite;
+}
+
+.third-page-section .rhyming-shaayri .first-line-rhyming{
+    color:#c2023e;
+    font-size:19px;
+    font-weight:500;
+    padding-top:5px;
+}
+
+.third-page-section .rhyming-shaayri .second-line-rhyming{
+    color:#c2023e;
+    font-size:16px;
+    font-weight:500;
+    padding-top:5px;
+}
+
+.third-page-section .rhyming-shaayri .third-line-rhyming{
+    color:#c2023e;
+    font-size:19px;
+    font-weight:500;
+    padding-top:5px;
+}
+
+.third-page-section img.third-page-pungi-image{
+    width:300px;
+}
+
+.fourth-page-section{
+    /* background-color: rgb(201, 201, 201); */
+    background-image:url(images/main-page-color-background.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    padding-top:10px;
+}
+
+.fourth-page-section .container-fluid{
+    border:4px solid #c2023e;
+    padding:20px 0px;
+}
+
+.fourth-page-section .om-ganeshay-text{
+    color:#c2023e;
+    text-align: center;
+    font-size:22px;
+    font-weight:600;
+    padding-top:50px;
+}
+
+.fourth-page-section img.ganesh-ji-circle-image.left-side-image{
+    margin-left:20px;
+}
+
+.fourth-page-section img.ganesh-ji-circle-image.right-side-image{
+    margin-left:-20px;
+}
+
+.fourth-page-section .sanehi-svajan{
+    color:#c2023e;
+    font-size:20px;
+    font-weight:500;
+    padding-left: 10px;
+}
+
+.fourth-page-section h4.parampita-parmeshvar{
+    color:#c2023e;
+    text-align: center;
+    font-size:20px;
+    font-weight:500;
+    line-height:25px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.fourth-page-section h3.jQClassForBoyName{
+    color:#c2023e;
+    text-align: center;
+    font-weight:700;
+}
+
+.fourth-page-section h4.jQClassForBoyDadiDadaName,
+.fourth-page-section h4.jQClassForBoyMotherFatherName{
+    color:#c2023e;
+    text-align: center;
+    font-weight:600;
+}
+
+.fourth-page-section img.mangal-prinay-fourth-page{
+    margin-top: 150px;
+}
+
+.fourth-page-section h3.jQClassForGirlName{
+    color:#c2023e;
+    text-align: center;
+    font-weight:700;
+}
+
+.fourth-page-section h4.jQClassForGirlMotherFatherName{
+    color:#c2023e;
+    text-align: center;
+    font-weight:700;
+}
+
+.fourth-page-section a.girl-home-address-style{
+    color:#c2023e;
+    text-align: center;
+    font-size:22px;
+    font-weight:700;
+}
+
+.fourth-page-section a.girl-home-address-style:hover{
+    color:#ff0051;
+    text-decoration: none;
+}
+
+.fourth-page-section a.boy-home-address-style div.see-location-text{
+    background-color: #c2023e;
+    width:200px;
+    padding:5px 5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    animation: hightlights-location 10s infinite;
+}
+
+.fourth-page-section a.boy-home-address-style div.see-location-text i{
+    animation:rotate-direction-icon  15s infinite;
+}
+
+.fourth-page-section div.ke-background-colour{
+    display: block;
+    color:rgb(207, 207, 207);
+    background-color:#c2023e;;
+    text-align: center;
+    height: 40px;
+    width:45px;
+    font-size: 20px;
+    padding:5px 13px;
+    transform: rotate(45deg);
+    border-radius:8px;
+}
+
+.fourth-page-section div.ke-background-colour p.ke-re-rotate-text{
+    transform: rotate(-45deg);
+}
+
+.fourth-page-section .parinay-bandhan-image-down-text{
+    color:#c2023e;
+    text-align:center;
+    font-weight:600;
+}
+
+.fourth-page-section .short-device-uttrapekshi{
+    color:#c2023e;
+    text-align:center;
+    font-weight:600;
+    display:none;
+    padding-top:20px;
+}
+
+.fourth-page-section .large-device-uttrapekshi{
+    color:#c2023e;
+    text-align:center;
+    font-weight:600;
+    display:block;
+    padding-top:90px;
+}
+
+.fourth-page-section .dharshanabilashi{
+    color:#c2023e;
+    font-size:15px;
+    font-weight:600;
+    padding-top:45px;
+}
+
+.fourth-page-section .vinit-detail{
+    font-size:15px;
+    color:#c2023e;
+    font-weight:600;
+}
+
+.fourth-page-section .vinit-detail a{
+    color:#c2023e;
+}
+
+.fourth-page-section .vinit-detail a:hover{
+    text-decoration:none;
+}
+
+.fourth-page-section .vinit-detail a i{
+    animation:rotate-phone-icon  8s infinite;
+}
+
+
+@keyframes hightlights-location {
+    0%{
+        color:rgb(207, 207, 207);
+    }  
+    25%{
+        color:rgb(255, 255, 255);
+    }
+    50%{
+        color:rgb(238, 238, 238);
+    }
+    75%{
+        color:rgb(214, 214, 214);
+    } 
+    100%{
+        color:rgb(207, 207, 207);
+    }  
+}
+
+/* @keyframes rotate-direction-icon {
+    0%{
+        transform: rotate(0deg);
+    }  
+    10%{
+        transform: rotate(180deg);
+    }
+    20%{
+        transform: rotate(360deg);
+    }
+    30%{
+        transform: rotate(-180deg);
+    } 
+    40%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    60%{
+        transform: rotate(360deg);
+    }
+    70%{
+        transform: rotate(-180deg);
+    }
+    80%{
+        transform: rotate(0deg);
+    }
+    90%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }  
+} */
+
+@keyframes rotate-direction-icon {
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        transform: rotate(-360deg);
+    }
+    50%{
+        transform: rotate(0deg);
+    }
+    75%{
+        transform: rotate(-360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes rotate-phone-icon {
+    0%{
+        transform: rotate(0deg);
+    }  
+    20%{
+        transform: rotate(360deg);
+    }
+    40%{
+        transform: rotate(0deg);
+    }
+    60%{
+        transform: rotate(360deg);
+    } 
+    80%{
+        transform: rotate(360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }  
+}
+
+@media (max-width:1200px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:30px;
+        font-weight:700;
+    }
+
+    .main-page-section .pareshak-detail{
+        padding-left:70px;
+        padding-top:10px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:21px;
+        font-weight:600;
+        padding-top:30px;
+    }
+    .fourth-page-section img.mangal-prinay-fourth-page{
+        margin-top: 120px;
+    }
+}
+
+@media (max-width:991px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:25px;
+        font-weight:700;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 170px;
+    }
+
+    .main-page-section .name-detail-share input{
+        width:80%;
+    }
+    .main-page-section .pareshak-detail{
+        padding-left:50px;
+        padding-top:0px;
+    }
+    .third-page-section .event-date-main-div .event-date h4{
+        font-size:24px;
+        font-weight:600;
+    }
+    
+    .third-page-section .event-date-main-div .event-date-detail{
+        font-size:20px;
+    }
+    .third-page-section a.jQClassForBanquetHallLocationAnchor{
+        font-size:18px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:20px;
+        font-weight:600;
+        padding-top:20px;
+    }
+    .fourth-page-section img.mangal-prinay-fourth-page{
+        margin-top: 90px;
+    }
+    .fourth-page-section .large-device-uttrapekshi{
+        padding-top:110px;
+    }
+    .fourth-page-section .dharshanabilashi{
+        padding-top:70px;
+    }
+}
+
+@media (max-width:891px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:23px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 130px;
+    }
+}
+
+@media (max-width:768px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 150px;
+    }
+
+    .main-page-section .name-detail-share input{
+        width:70%;
+    }
+    .main-page-section .pareshak-detail{
+        padding-left:30px;
+    }
+    .main-page-section .created-by{
+        padding-top:20px;
+    }
+    .third-page-section img.mangal-prinay-third-page{
+        width:400px;
+    }
+    .third-page-section .event-date-main-div .event-date h4{
+        font-size:20px;
+        font-weight:600;
+    }
+    
+    .third-page-section .event-date-main-div .event-date-detail{
+        font-size:17px;
+    }
+
+    .third-page-section .event-date-main-div .event-date-detail a{
+        padding:3px 8px 5px 8px;
+        font-size:17px;
+    }
+
+    .third-page-section .aalok-text-background h4{
+        margin:15px 70px;
+    }
+    .third-page-section a.jQClassForBanquetHallLocationAnchor{
+        padding-top:16px;
+        font-weight:600;
+    }
+    .third-page-section img.third-page-pungi-image{
+        width:270px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:18px;
+        font-weight:600;
+        padding-top:10px;
+    }
+    .fourth-page-section .sanehi-svajan{
+        font-size:18px;
+    }
+    
+    .fourth-page-section h4.parampita-parmeshvar{
+        font-size:18px;
+    }
+    .fourth-page-section h4.jQClassForBoyDadiDadaName,
+    .fourth-page-section h4.jQClassForBoyMotherFatherName{
+        font-size:18px;
+    }
+    .fourth-page-section img.mangal-prinay-fourth-page{
+        margin-top: 60px;
+    }
+    .fourth-page-section h3.jQClassForGirlName{
+        color:#c2023e;
+        text-align: center;
+        font-weight:700;
+    }
+    
+    .fourth-page-section h4.jQClassForGirlMotherFatherName{
+        font-size:18px;
+    }
+    
+    .fourth-page-section a.girl-home-address-style{
+        font-size:18px;
+    }
+
+    .fourth-page-section a.boy-home-address-style div.see-location-text{
+        width:150px;
+        margin-top:5px;
+        margin-bottom:5px;
+    }
+
+    .fourth-page-section .dharshanabilashi{
+        padding-top:65px;
+    }
+
+    .fourth-page-section .short-device-uttrapekshi{
+        display:block;
+    }
+    
+    .fourth-page-section .large-device-uttrapekshi{
+        display:none;
+    }
+}
+
+@media (max-width:691px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 130px;
+    }
+}
+
+@media (max-width:631px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 110px;
+    }
+}
+
+@media (max-width:591px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForBoyName{
+        padding-left: 40px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 100px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+        padding-left: 40px;
+    }
+}
+
+@media (max-width:576px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForBoyName{
+        padding-left: 40px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 100px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+        padding-left: 40px;
+    }
+
+    .main-page-section .created-by{
+        padding-top:60px;
+    }
+    .main-page-section .name-detail-share{
+        height:150px;
+    }
+    .main-page-section .pareshak-detail{
+        padding-left:20px;
+    }
+    .third-page-section .om-ganeshay-text{
+        font-size:18px;
+        font-weight:500;
+    }
+    .third-page-section img.mangal-prinay-third-page{
+        width:300px;
+    }
+    .third-page-section .event-date-main-div .event-date h4{
+        font-size:17px;
+        font-weight:600;
+    }
+    
+    .third-page-section .event-date-main-div .event-date-detail{
+        font-size:14px;
+    }
+    .third-page-section .aalok-text-background h4{
+        margin:10px 70px;
+    }
+    .third-page-section .rhyming-shaayri .second-line-rhyming{
+        font-size:14px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    .third-page-section img.third-page-pungi-image{
+        width:230px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:16px;
+        font-weight:600;
+        padding-top:5px;
+    }
+    .fourth-page-section h4.jQClassForBoyDadiDadaName,
+    .fourth-page-section h4.jQClassForBoyMotherFatherName{
+        font-size:17px;
+    }
+    .fourth-page-section img.mangal-prinay-fourth-page{
+        margin-top: 30px;
+    }
+    
+    .fourth-page-section h4.jQClassForGirlMotherFatherName{
+        font-size:17px;
+    }
+    
+    .fourth-page-section a.girl-home-address-style{
+        font-size:17px;
+    }
+
+    .fourth-page-section .parinay-bandhan-image-down-text h5{
+        font-size:17px;
+    }
+    .fourth-page-section .dharshanabilashi{
+        font-size:14px;
+    }
+    .fourth-page-section .vinit-detail{
+        font-size:14px;
+    }
+}
+
+@media (max-width:491px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:20px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForBoyName{
+        padding-left: 30px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 70px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+        padding-left: 30px;
+    }
+    .main-page-section .name-detail-share input{
+        width:60%;
+    }
+    .main-page-section .pareshak-detail{
+        padding-left:15px;
+    }
+    .main-page-section .created-by a{
+        font-size:18px;
+        font-weight:700;
+        width:100%;
+        padding-top:50px;
+    }
+    .third-page-section .om-ganeshay-text{
+        font-size:17px;
+        font-weight:500;
+    }
+    .third-page-section img.mangal-prinay-third-page{
+        width:280px;
+    }
+    .third-page-section .event-date-main-div .event-date h4{
+        font-size:16px;
+        font-weight:600;
+    }
+    
+    .third-page-section .event-date-main-div .event-date-detail{
+        font-size:13px;
+    }
+    .third-page-section .aalok-text-background h4{
+        margin:5px 50px;
+    }
+    .third-page-section .rhyming-shaayri .first-line-rhyming{
+        font-size:18px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    
+    .third-page-section .rhyming-shaayri .second-line-rhyming{
+        font-size:13px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    
+    .third-page-section .rhyming-shaayri .third-line-rhyming{
+        font-size:18px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    .third-page-section img.third-page-pungi-image{
+        width:210px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:14px;
+        font-weight:600;
+        padding-top:0px;
+    }
+    .fourth-page-section .sanehi-svajan{
+        font-size:16px;
+    }
+    
+    .fourth-page-section h4.parampita-parmeshvar{
+        font-size:16px;
+    }
+    .fourth-page-section h4.jQClassForBoyDadiDadaName,
+    .fourth-page-section h4.jQClassForBoyMotherFatherName{
+        font-size:15px;
+    }
+
+    .fourth-page-section h4.jQClassForGirlMotherFatherName{
+        font-size:15px;
+    }
+    
+    .fourth-page-section a.girl-home-address-style{
+        font-size:15px;
+    }
+
+    .fourth-page-section .parinay-bandhan-image-down-text h5{
+        font-size:16px;
+    }
+    .fourth-page-section .dharshanabilashi{
+        font-size:12.25px;
+    }
+    .fourth-page-section .vinit-detail{
+        font-size:13px;
+    }
+}
+
+@media (max-width:427px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:19px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForBoyName{
+        padding-left: 15px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 60px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+        padding-left: 15px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:12.8px;
+        font-weight:600;
+        padding-top:0px;
+    }
+    .fourth-page-section h4.jQClassForBoyDadiDadaName,
+    .fourth-page-section h4.jQClassForBoyMotherFatherName{
+        font-size:14px;
+    }
+    
+    .fourth-page-section h4.jQClassForGirlMotherFatherName{
+        font-size:14px;
+    }
+    
+    .fourth-page-section a.girl-home-address-style{
+        font-size:14px;
+    }
+    .fourth-page-section .short-device-uttrapekshi{
+        font-size:14px;
+    }
+    .fourth-page-section .dharshanabilashi{
+        font-size:10.95px;
+        padding-top:50px;
+    }
+    .fourth-page-section .vinit-detail{
+        font-size:11px;
+    }
+}
+
+@media (max-width:391px) {
+    .main-page-section .brand-image-in-text h3{
+        color:#c2023e;
+        font-size:18px;
+        font-weight:800;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForBoyName{
+        padding-left:10px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForGirlName{
+        padding-left: 50px;
+    }
+    
+    .main-page-section .brand-image-in-text h3.jQClassForDateMarriage{
+        padding-left: 10px;
+    }
+    .main-page-section .created-by a{
+        font-size:16px;
+        font-weight:700;
+        width:100%;
+        padding-top:50px;
+    }
+    .main-page-section .pareshak-detail{
+        font-size:14px;
+    }
+    .third-page-section .om-ganeshay-text{
+        font-size:16px;
+        font-weight:500;
+    }
+    .third-page-section img.mangal-prinay-third-page{
+        width:250px;
+    }
+    .third-page-section .event-date-main-div .event-date h4{
+        font-size:14px;
+        font-weight:600;
+    }
+    
+    .third-page-section .event-date-main-div .event-date-detail{
+        font-size:12.5px;
+    }
+    .third-page-section .aalok-text-background h4{
+        margin:0px 50px;
+    }
+    .third-page-section .rhyming-shaayri .first-line-rhyming{
+        font-size:17px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    
+    .third-page-section .rhyming-shaayri .second-line-rhyming{
+        font-size:12px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    
+    .third-page-section .rhyming-shaayri .third-line-rhyming{
+        font-size:17px;
+        font-weight:500;
+        padding-top:5px;
+    }
+    .third-page-section img.third-page-pungi-image{
+        width:200px;
+    }
+    .fourth-page-section .om-ganeshay-text{
+        font-size:12px;
+        font-weight:600;
+        padding-top:0px;
+    }
+    .fourth-page-section h4.jQClassForBoyDadiDadaName,
+    .fourth-page-section h4.jQClassForBoyMotherFatherName{
+        font-size:12.5px;
+    }
+
+    .fourth-page-section h4.jQClassForGirlMotherFatherName{
+        font-size:12.6px;
+    }
+    
+    .fourth-page-section a.girl-home-address-style{
+        font-size:12.6px;
+    }
+    .fourth-page-section .dharshanabilashi{
+        padding-top:35px;
+    }
+}
+
